@@ -4,8 +4,6 @@
 ## Check the Releases
 We provide APKs of the game that disables the Google Play dependency. These patched versions also enables MITM debugging (disabling certificate validation).
 
-These versions of the game will also attempt to spoof the `x-a-s` signature check header so the game will not detect the modified APK.
-
 The game still does require an Android API version of 29+ (or Android 10+) and a compatible device - this only bypasses Google Play requirment and not any other device requirements.
 
 ### Working Emulators
